@@ -1,0 +1,33 @@
+
+.amazon_logo{
+    height: 45px;
+    width: 90px;
+    margin-left: 20px; 
+
+}
+
+.nav_container{
+    display: flex; 
+   flex-direction: row; 
+   justify-content: space-between;
+   padding: 18px; 
+   margin-top: -12px; 
+   background-color: #0F1111; 
+}
+.left-nav{
+   display: flex; 
+   align-items: center;
+}
+
+.right-nav{
+    display: flex; 
+    align-items: center;
+}
+
+.modalContainer {
+    background-color:  grey; 
+    margin-top: -138px;
+    position: absolute; 
+    width: 70%;
+    height: 100%
+}

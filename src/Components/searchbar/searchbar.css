@@ -1,0 +1,33 @@
+.searchbox {
+    margin-top: 7;
+    height: 30px;
+    border: none;
+    margin-left: 20px;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.searchbarContainer{
+    background-color: #0F1111; 
+    padding-bottom: 5px;
+}
+
+
+.search_button {
+    height: 33px;
+    width: 33px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+}
+
+.cat_button {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.api_data {
+    display: flex; 
+    flex-direction: row;
+
+}
